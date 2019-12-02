@@ -14,7 +14,7 @@ inoremap [ []<ESC>i
 inoremap { {}<ESC>i
 inoremap ' ''<ESC>i
 inoremap " ""<ESC>i
-inoremap < <><ESC>i
+inoremap < <>
 
 set nocompatible
 filetype on
